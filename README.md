@@ -1,1 +1,6 @@
-# diabets_prediction_app
+echo # Diabetes Prediction App > README.md
+echo A Streamlit app to predict diabetes. >> README.md
+echo ## How to Run >> README.md
+echo 1. Clone: git clone https://github.com/22kalyani/diabets_prediction_app>> README.md
+echo 2. Install: pip install streamlit pandas scikit-learn seaborn matplotlib numpy >> README.md
+echo 3. Run: python -m streamlit run app.py >> README.md
